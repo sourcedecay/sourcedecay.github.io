@@ -1,5 +1,0 @@
----
-layout: default
-title: About
----
-Welcome to a page to documents things that interest me. I post about my vegan-ish cooking experiments, film photography adventures, handmade wardrobe, and code snippets that I keep having to look up over and over. 
