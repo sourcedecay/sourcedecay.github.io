@@ -1,16 +1,17 @@
-title: Building a Better Me
+title: Collapsing Stars
 author: sourcedecay
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Small steps toward a better self
+  A brain dump
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  sourcedecay # DO NOT include the @ character, or else the build will fail!
+github_username: sourcedecay # DO NOT include the @ character, or else the build will fail!
 highlighter: rouge
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 highlighter-theme: monokai
 date_format: "%Y-%M-%D"
+
 plugins:
   - jekyll-feed
 
