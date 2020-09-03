@@ -3,9 +3,7 @@ author: sourcedecay
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   musings on all the things
-# social links
-#twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username: sourcedecay # DO NOT include the @ character, or else the build will fail!
+
 highlighter: rouge
 
 show_excerpts: true # set to false to remove excerpts on the homepage
@@ -17,3 +15,15 @@ plugins:
 
 category_dir: category/
 tag_dir: tag/
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/sourcedecay
+gitlab_url:
+googleplus_url:
+instagram_url: https://www.instagram.com/source.decay/
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url: 
