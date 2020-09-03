@@ -18,7 +18,7 @@ I love the look, process, and unpredictability of film photography and have a cl
 ---
 _Cooking_
 
-My diet can be described as mostly plant-based with the occasional egg, fish sauce, and butter and I cook a lot of food typically from India, South East Asia (Thai, Vietnamese), and South Korea. My partner and I recently started exploring Sichuan cuisine and it has been fun to add those flavors to our spice cabinet.
+My diet can be described as mostly plant-based with the occasional egg, fish sauce, and butter and I cook a lot of food typically from India, Thailand, Vietnam, and South Korea. My partner and I recently started exploring Sichuan cuisine and it has been fun to add those flavors to our spice cabinet.
 
 ---
 _Coding_
