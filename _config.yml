@@ -12,3 +12,6 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 
 plugins:
   - jekyll-feed
+
+category_dir: category/
+tag_dir: tag/
